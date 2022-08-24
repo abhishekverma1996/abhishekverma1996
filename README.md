@@ -39,12 +39,12 @@
 
 ## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" width="40px" src="https://www.pngitem.com/pimgs/m/191-1918829_icon-android-studio-logo-hd-png-download.png"/> </a> 
+<img align="left" alt="Visual Studio Code" width="46px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
+<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" width="46px" src="https://www.pngitem.com/pimgs/m/191-1918829_icon-android-studio-logo-hd-png-download.png"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/download/" target="_blank"> <img align="left" alt="PyCharm" width="46px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"/> </a> 
-<a href="https://webyog.com/product/sqlyog/" target="_blank"> <img align="left" alt="SQLYog" width="26px" src="https://spng.subpng.com/20190327/gif/kisspng-mysql-php-relational-database-management-system-co-course3d-5c9bb680ebaf42.6137144215537086729654.jpg"/> </a>
-<a href="https://www.jetbrains.com/idea/download/" target="_blank"> <img align="left" alt="IntelliJ" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"/> </a>
-<a href="https://powerbi.microsoft.com/en-us/downloads/" target="_blank"> <img align="left" alt="Power BI" width="26px" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png?v=637908007690000000"/> </a>
+<a href="https://webyog.com/product/sqlyog/" target="_blank"> <img align="left" alt="SQLYog" width="46px" src="https://spng.subpng.com/20190327/gif/kisspng-mysql-php-relational-database-management-system-co-course3d-5c9bb680ebaf42.6137144215537086729654.jpg"/> </a>
+<a href="https://www.jetbrains.com/idea/download/" target="_blank"> <img align="left" alt="IntelliJ" width="46px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/downloads/" target="_blank"> <img align="left" alt="Power BI" width="46px" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png?v=637908007690000000"/> </a>
 
 
 <br />
