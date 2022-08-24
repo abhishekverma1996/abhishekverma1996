@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/"><img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117b4d34158e0adfc03bd2d4a5793d78815a1f61ee&rid=giphy.gif&ct=g" alt="Hello" /></a></p>
 
-<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏</h4>
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏</h4>
 
 <p align='center'> 
 <a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/abhishekverma1996/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=abhishekverma1996&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="mitthu786" /></a> </p><br>
+<p align="center"> <a href="https://github.com/abhishekverma1996/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=abhishekverma1996&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="abhishekverma1996" /></a> </p><br>
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
@@ -40,10 +40,11 @@
 ## 🧬 ꜱᴏꜰᴛᴡᴀʀᴇꜱ :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
-<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="Premiere Pro" width="40px" src="https://download.logo.wine/logo/Adobe_Premiere_Pro/Adobe_Premiere_Pro-Logo.wine.png"/> </a> 
-<a href="https://www.adobe.com/in/" target="_blank"> <img align="left" alt="LightRoom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Adobe_Corporate_logo.svg/1200px-Adobe_Corporate_logo.svg.png"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_orange.png"/> </a>
+<a href="https://developer.android.com/studio" target="_blank"> <img align="left" alt="Android Studio" width="40px" src="https://www.pngitem.com/pimgs/m/191-1918829_icon-android-studio-logo-hd-png-download.png"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/download/" target="_blank"> <img align="left" alt="PyCharm" width="46px" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png"/> </a> 
+<a href="https://webyog.com/product/sqlyog/" target="_blank"> <img align="left" alt="SQLYog" width="26px" src="https://spng.subpng.com/20190327/gif/kisspng-mysql-php-relational-database-management-system-co-course3d-5c9bb680ebaf42.6137144215537086729654.jpg"/> </a>
+<a href="https://www.jetbrains.com/idea/download/" target="_blank"> <img align="left" alt="IntelliJ" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"/> </a>
+<a href="https://powerbi.microsoft.com/en-us/downloads/" target="_blank"> <img align="left" alt="Power BI" width="26px" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png?v=637908007690000000"/> </a>
 
 
 <br />
@@ -51,7 +52,7 @@
 
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
-![Abhishekverma's github stats](https://github-stats-alpha.vercel.app/api/?username=abhishekverma1996)
+![Abhishekverma1996's github stats](https://github-stats-alpha.vercel.app/api/?username=abhishekverma1996)
 
 <!---
 Abhishekverma1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
