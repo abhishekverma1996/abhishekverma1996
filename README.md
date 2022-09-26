@@ -53,6 +53,7 @@
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
 ![Abhishekverma1996's github stats](https://github-stats-alpha.vercel.app/api/?username=abhishekverma1996)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma1996&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=radical)](https://github.com/abhishekverma1996/github-readme-stats)
 
 <!---
 Abhishekverma1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
