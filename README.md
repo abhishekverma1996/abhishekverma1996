@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/"><img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117b4d34158e0adfc03bd2d4a5793d78815a1f61ee&rid=giphy.gif&ct=g" alt="Hello" /></a></p>
+<p align="center"><a href="https://t.me/lootdailyoffers"><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Hello" /></a></p>
 
 <h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏</h4>
 
