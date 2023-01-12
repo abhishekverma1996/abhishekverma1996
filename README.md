@@ -54,7 +54,7 @@
 ## ⚡️ ꜱᴛᴀᴛꜱ 
 
 ![Abhishekverma1996's github stats](https://github-stats-alpha.vercel.app/api/?username=abhishekverma1996)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma1996&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=null)](https://github.com/abhishekverma1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma1996&hide=javascript,html,Roff,css,Cmake&layout=compact&theme=null)
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekverma1996)](https://git.io/streak-stats)
 
 <a href="https://github.com/abhishekverma1996"><img src="abhishek.svg"></a>
