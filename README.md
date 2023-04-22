@@ -21,7 +21,6 @@
 ✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ Java , ʜᴛᴍʟ , POWER BI, ᴍʏꜱQʟ , ᴄꜱꜱ & Wordpress. <br>
 ✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ .<br>
 ✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ TELEGRAM :- @lootdailyoffers<br>
-✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- +917236027172<br>
 ✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- abhishekverma495@gmail.com <br>
 
 
@@ -57,7 +56,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekverma1996)](https://git.io/streak-stats)
 
 <a href="https://github.com/abhishekverma1996"><img src="abhishek.svg"></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekverma1996&" alt="abhishekverma1996" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekverma1996" alt="abhishekverma1996" /></a> </p>
 
 <!---
