@@ -57,7 +57,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishekverma1996)](https://git.io/streak-stats)
 
 <a href="https://github.com/abhishekverma1996"><img src="abhishek.svg"></a>
-<a href="https://github-profile-trophy.vercel.app/?username=abhishekverma1996">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekverma1996&" alt="abhishekverma1996" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekverma1996" alt="abhishekverma1996" /></a> </p>
 
 <!---
 Abhishekverma1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
