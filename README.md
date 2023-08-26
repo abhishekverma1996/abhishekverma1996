@@ -14,6 +14,7 @@
 
 
 <p align="center"> <a href="https://github.com/abhishekverma1996/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=abhishekverma1996&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="abhishekverma1996" /></a> </p><br>
+<p align="center"> <a href="https://github.com/abhishekverma1996/"><img height="24" src="https://git-visitors.vercel.app/api/abhishekverma1996" alt="abhishekverma1996" /></a> </p><br>
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
