@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=Blue&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello&fontColor=b1e649&textBg=false"/>
 </p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
