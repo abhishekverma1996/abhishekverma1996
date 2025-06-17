@@ -2,10 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;_I+am+Abhishek+Verma.;  _Full+Stack+Mern+Developer!&center=true&size=30">
-  </a>
-<h2 align="center">Hi...<br>This Side Abhishek Verma.</h4>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 <p align="center"><a href="https://t.me/lootdailyoffers"><img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Hello" width="500" height="300"/></a></p>
 
 <h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏</h4>
