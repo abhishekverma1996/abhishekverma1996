@@ -27,12 +27,56 @@
 
 ## ⚔️ About Me
 
-* 👋 **Hi, I’m Abhishek Verma**, a Senior DevOps & Platform Engineer dedicated to building resilient systems.
+* 👋 **Hi, I’m Abhishek Verma**, a Senior DevOps & Platform Engineer dedicated to building highly resilient systems.
 * 🏗️ **Core Focus:** Designing scalable Cloud Architectures, writing immutable Infrastructure as Code (IaC), and optimizing complex multi-stage deployment pipelines.
 * 🛡️ **Current Engineering Pursuit:** Deepening edge-case system hardening protocols, managing massive production Kubernetes clusters, and implementing AIOps & MLOps patterns for automated operations.
 * 📧 **Reach Me Vertically:** abhishekverma495@gmail.com
 
-<br>
+---
+
+## ⚡ Quantified SRE & System Impact
+
+| Metric Domain | Scale & Optimization Metrics | Strategic Business & Operational Impact |
+| :--- | :--- | :--- |
+| 🚀 **High Availability** | **99.95% Infrastructure Uptime** | Managed production container workloads on **Kubernetes (AKS)** with optimized cluster-autoscaling (HPA) to handle traffic spikes. |
+| 🛡️ **Shift-Left DevSecOps** | **85% Vulnerability Reduction** | Integrated **Trivy** and **SonarQube** static analysis scanners inside pipeline pull request gates, preventing bad configuration leaks. |
+| ⚡ **CI/CD Speed** | **40% Faster Deployment MTTR** | Automated microservice builds using **GitHub Actions** and **Jenkins**, utilizing parallel build workflows and caching strategies. |
+| 📊 **Database Operations** | **30% Manual Work Elimination** | Custom-engineered optimized **SQL/MySQL** relational structures, streamlining data retrieval speeds and operational tracking pipelines. |
+
+---
+
+## 🔄 Cloud-Native Architecture & Continuous Delivery Loop
+
+A production-grade, zero-trust GitOps infrastructure deployment workflow highlighting continuous shift-left testing and automated cloud orchestration:
+
+```mermaid
+flowchart LR
+    DEV([👨‍💻 Code Commit]) --> PR[🔀 Pull Request Trigger]
+    
+    subgraph Validation[" Stage 1: Shift-Left Gates "]
+        LINT["Static Linting<br/>(tflint / tftarget)"]
+        SEC["Vulnerability Shield<br/>(SonarQube & Trivy)"]
+        LINT --> SEC
+    end
+    
+    subgraph Orchestration[" Stage 2: Immutable Infrastructure & GitOps "]
+        IAC["IaC Provisioning<br/>(Terraform / Ansible)"]
+        GITOPS["GitOps Synchronization<br/>(Desired State Applied)"]
+        IAC --> GITOPS
+    end
+    
+    subgraph Compute[" Stage 3: High-Availability Production "]
+        K8S["Production Clusters<br/>(Kubernetes / Docker)"]
+        SRE["Telemetry Observability<br/>(Prometheus & Grafana)"]
+        K8S --> SRE
+    end
+
+    PR --> Validation
+    Validation --> Orchestration
+    Orchestration --> Compute
+```
+
+---
 
 ## 🛠️ Tech Stack & Market Demands Ecosystem
 
