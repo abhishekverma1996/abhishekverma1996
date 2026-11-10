@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Senior DevOps Engineer & SRE Specialist 🏗️🚀
+  Devops Engineer & SRE Specialist 🏗️🚀
 </h1>
 
 <h3 align="center">
@@ -27,7 +27,7 @@
 
 ## ⚔️ About Me
 
-* 👋 **Hi, I’m Abhishek Verma**, a Senior DevOps & Platform Engineer dedicated to building highly resilient systems.
+* 👋 **Hi, I’m Abhishek Verma**, a Devops & Platform Engineer dedicated to building highly resilient systems.
 * 🏗️ **Core Focus:** Designing scalable Cloud Architectures, writing immutable Infrastructure as Code (IaC), and optimizing complex multi-stage deployment pipelines.
 * 🛡️ **Current Engineering Pursuit:** Deepening edge-case system hardening protocols, managing massive production Kubernetes clusters, and implementing AIOps & MLOps patterns for automated operations.
 * 📧 **Reach Me Vertically:** abhishekverma495@gmail.com
